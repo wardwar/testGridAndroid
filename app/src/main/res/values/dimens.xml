@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp1">0.5dp</dimen>
+    <dimen name="dp24">24dp</dimen>
+    <dimen name="dp18">18dp</dimen>
+    <dimen name="dp20">24dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp3">3dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp4">4dp</dimen>
+    <dimen name="dp6">6dp</dimen>
+    <dimen name="dp9">9dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp105">105dp</dimen>
+
+</resources>
